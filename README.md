@@ -1,0 +1,2 @@
+# commerce
+permalink: /index.php
